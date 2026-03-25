@@ -1,6 +1,45 @@
 # 💫 About Me:
-Hey there! I'm a 2nd-year Computer Science student passionate about building clean, functional, and creative web experiences.<br><br>🚀 I specialize in Frontend Development, working with:<br><br>HTML, CSS, JavaScript<br><br>React.js, Tailwind CSS, Bootstrap<br><br>🔍 Currently diving into the world of Backend Development to become a full-stack developer.<br><br>🤖 My ultimate goal? To build powerful AI-integrated products that solve real-world problems and bring smart automation to life.<br><br>I'm always learning, building, and pushing my limits. Let's connect and create something impactful! 💡
+Hey! I'm Sumit Vishwakarma, a passionate Full Stack Developer and Computer Science student from Mumbai 🇮🇳
 
+I love building scalable, clean, and impactful web applications that solve real-world problems.
+
+## 🚀 What I Do:
+- Develop modern, responsive, and high-performance web apps  
+- Build full-stack applications with real-world use cases  
+- Focus on clean code, UI/UX, and performance optimization  
+
+## 💻 Tech Stack:
+
+### 🌐 Frontend:
+- HTML, CSS, JavaScript  
+- React.js  
+- Tailwind CSS, Bootstrap  
+
+### ⚙️ Backend:
+- Node.js  
+- Express.js  
+
+### 🗄️ Database:
+- MongoDB  
+
+### 🛠️ Tools & Technologies:
+- Git & GitHub  
+- REST APIs  
+- Vercel / Deployment  
+
+## 🌱 Currently Learning:
+- Advanced Backend Development  
+- Authentication & Authorization  
+- System Design Basics  
+- AI Integration in Web Apps  
+
+## 🎯 Goals:
+- Become a top-level Full Stack Developer  
+- Build AI-powered SaaS products  
+- Create impactful tech solutions that scale  
+
+## 🤝 Let's Connect:
+I'm always open to collaboration, learning, and building something amazing 🚀
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sumit-vishwakarma-b818b7268/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sumitvishwa009@gmail.com) 
